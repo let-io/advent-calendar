@@ -1,0 +1,7 @@
+.window {
+    border: 1px solid #F96600;
+    width: 15%;
+    height:6em;
+    display: flex;
+    align-items: flex-start;
+}

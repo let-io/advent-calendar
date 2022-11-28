@@ -1,0 +1,60 @@
+.button {
+    padding: 5%;
+    color: #F96600;
+    font-weight: bold;
+    border: none;
+}
+
+.modal {
+    font-size: 12px;
+    border: 1px solid #F96600;
+    background-color: white;
+    width: 75%;
+    margin: auto;
+    padding: 10px 20px;
+  }
+  .modal > .header {
+    width: 100%;
+    border-bottom: 1px solid gray;
+    font-size: 18px;
+    text-align: center;
+  }
+  .modal > .content {
+    width: 100%;
+    padding: 10px;
+    color: black;
+    text-align: center;
+    font-size: 14px;
+  }
+  .modal > .actions {
+    width: 100%;
+    padding: 10px 5px;
+    margin: auto;
+    text-align: center;
+  }
+  .modal > .actions > .option {
+    margin: 5px;
+    padding: 5px;
+    font-size: 14px;
+  }
+  .modal > .actions > .correct {
+    background-color: green;
+    color: white;
+  }
+  .modal > .actions > .wrong {
+    background-color: #e04c4c;
+    color: white;
+  }
+  .modal > .close {
+    cursor: pointer;
+    position: absolute;
+    display: block;
+    padding: 2px 5px;
+    line-height: 20px;
+    right: -10px;
+    top: -10px;
+    font-size: 24px;
+    background: #ffffff;
+    border-radius: 18px;
+    border: 1px solid #F96600;
+  }

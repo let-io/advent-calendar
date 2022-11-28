@@ -1,0 +1,194 @@
+{
+    "1": {
+        "introduction": "El domingo pasado empezamos el tiempo de Adviento.",
+        "question": "¿Para qué sirve el tiempo de Adviento?",
+        "answerOne": "Para que la Navidad sea más larga",
+        "answerTwo": "Para que nos dé tiempo a prepararnos para la Navidad",
+        "answerThree": "Para acordarnos de comprar el suficiente turrón y que no falte",
+        "correctAnswer": "Para que nos dé tiempo a prepararnos para la Navidad"
+    },
+    "2": {
+        "introduction": "La Virgen María estaba un día tranquilamente en su casa cuando se le apareció un arcángel para decirle que iba a ser la madre de Jesús.",
+        "question": "¿Cómo se llamaba ese arcángel?",
+        "answerOne": "Gabriel",
+        "answerTwo": "Miguel",
+        "answerThree": "Rafael",
+        "correctAnswer": "Gabriel"
+    },
+    "3": {
+        "introduction": "El arcángel Gabriel también aprovechó para contarle que su prima estaba embarazada de seis meses.",
+        "question": "¿Cómo se llamaba la prima de la Virgen María?",
+        "answerOne": "Salomé",
+        "answerTwo": "Isabel",
+        "answerThree": "Susana",
+        "correctAnswer": "Isabel"
+    },
+    "4": {
+        "introduction": "Tanto Isabel como su marido eran ya bastante mayores, así que ya no esperaban tener ningún hijo.",
+        "question": "¿Cómo se llamaba el marido de la prima Isabel?",
+        "answerOne": "Bernabé",
+        "answerTwo": "Zacarías",
+        "answerThree": "Jeremías",
+        "correctAnswer": "Zacarías"
+    },
+    "5": {
+        "introduction": "Cuando el arcángel Gabriel le contó a Zacarías que su mujer se iba a quedar embarazada, él no se lo creyó.",
+        "question": "¿Cómo castigó el arcángel Gabriel su incredulidad?",
+        "answerOne": "Hizo que a Zacarías se le cayera de golpe todo el pelo",
+        "answerTwo": "Envió una plaga de ranas a casa de Zacarías",
+        "answerThree": "Dejó a Zacarías mudo hasta que naciera su hijo",
+        "correctAnswer": "Dejó a Zacarías mudo hasta que naciera su hijo"
+    },
+    "6": {
+        "introduction": "Zacarías pudo volver a hablar una vez que nació su hijo y le pusieron el nombre que les había dicho el arcángel san Gabriel.",
+        "question": "¿Qué nombre le pusieron a este primo de Jesús?",
+        "answerOne": "Juan",
+        "answerTwo": "Santiago",
+        "answerThree": "Pedro",
+        "correctAnswer": "Juan"
+    },
+    "7": {
+        "introduction": "Este Juan no es el único que aparece en los Evangelios, o en la Biblia en general.",
+        "question": "¿Cómo llamaba la gente a este Juan, al hijo de Isabel y Zacarías?",
+        "answerOne": "Juan el Bautista",
+        "answerTwo": "Juan Evangelista",
+        "answerThree": "Juan Apóstol",
+        "correctAnswer": "Juan el Bautista"
+    },
+    "8": {
+        "introduction": "La Virgen no estaba sola, se había casado con un hombre, pero todavía no vivían en la misma casa.",
+        "question": "¿Cómo se llamaba su marido?",
+        "answerOne": "Tobías",
+        "answerTwo": "Rafael",
+        "answerThree": "José",
+        "correctAnswer": "José"
+    },
+    "9": {
+        "introduction": "Una vez que nació Juan, la Virgen María se volvió a su pueblo. Pero...",
+        "question": "¿Cómo se llamaba el pueblo de María y José?",
+        "answerOne": "Jerusalén",
+        "answerTwo": "Belén",
+        "answerThree": "Nazaret",
+        "correctAnswer": "Nazaret"
+    },
+    "10": {
+        "introduction": "San José al principio no entendía cómo su mujer estaba embarazada, e incluso pensó en abandonarla.",
+        "question": "¿Cómo supo José que la Virgen María estaba embarazada del Hijo de Dios?",
+        "answerOne": "Se lo contó la propia Virgen María cuando volvió de estar con su prima",
+        "answerTwo": "Se lo contó un ángel en sueños, mientras José dormía",
+        "answerThree": "Lo leyó en la Biblia, en los libros de los profetas",
+        "correctAnswer": "Se lo contó un ángel en sueños, mientras José dormía"
+    },
+    "11": {
+        "introduction": "Ahora ya sabemos que María y José vivían en Nazaret, pero Jesús no nació allí, sino en un pueblecito llamado Belén.",
+        "question": "¿Por qué Jesús nació en Belén?",
+        "answerOne": "Porque, por culpa de un censo, tuvieron que viajar a Belén y el parto les pilló allí",
+        "answerTwo": "Porque los padres de la Virgen vivían en Belén, y querían estar cerca",
+        "answerThree": "Porque habían ido a Belén de vacaciones y se les adelantó el parto",
+        "correctAnswer": "Porque, por culpa de un censo, tuvieron que viajar a Belén y el parto les pilló allí"
+    },
+    "12": {
+        "introduction": "Hoy toca una pregunta un poco más difícil, que también tiene que ver con el pueblo de Belén.",
+        "question": "¿Qué significa, en hebreo, la palabra Belén?",
+        "answerOne": "Colina empinada",
+        "answerTwo": "Camino de la herrería",
+        "answerThree": "Casa del pan",
+        "correctAnswer": "Casa del pan"
+    },
+    "13": {
+        "introduction": "En el Evangelio leemos que, cuando María dio a luz, envolvió al Niño en pañales y lo recostó en un pesebre.",
+        "question": "¿Por qué la Virgen utilizó un pesebre, que era donde comían los animales, y no una cuna?",
+        "answerOne": "Porque así el Niño Jesús estaría más calentito",
+        "answerTwo": "Porque a la Virgen María y a san José les encantaban los animales",
+        "answerThree": "Porque no había sitio para ellos en la posada, y se tuvieron que refugiar donde vivían los animales",
+        "correctAnswer": "Porque no había sitio para ellos en la posada, y se tuvieron que refugiar donde vivían los animales"
+    },
+    "14": {
+        "introduction": "Una vez que el Niño Jesús había nacido, unos ángeles (hay un montón de ángeles en esta historia) se encargaron de anunciar su llegada.",
+        "question": "¿Quiénes fueron los primeros en enterarse de que había nacido el Hijo de Dios?",
+        "answerOne": "Los pastores",
+        "answerTwo": "Los sacerdotes del templo",
+        "answerThree": "Los Reyes Magos",
+        "correctAnswer": "Los pastores"
+    },
+    "15": {
+        "introduction": "Aunque no fueron los primeros en ir a adorar al Niño, los Reyes Magos también supieron que había nacido el Mesías.",
+        "question": "¿Cómo se enteraron los Reyes Magos del nacimiento del Niño?",
+        "answerOne": "Se lo contó un ángel",
+        "answerTwo": "Vieron que había aparecido una estrella nueva en el cielo",
+        "answerThree": "Se lo contó un pastor que conocían",
+        "correctAnswer": "Vieron que había aparecido una estrella nueva en el cielo"
+    },
+    "16": {
+        "introduction": "Los Reyes Magos se pusieron enseguida en camino, porque venían desde bastante lejos.",
+        "question": "¿De dónde venían los Reyes Magos?",
+        "answerOne": "Del sur",
+        "answerTwo": "De occidente",
+        "answerThree": "De oriente",
+        "correctAnswer": "De oriente"
+    },
+    "17": {
+        "introduction": "Los Reyes Magos perdieron de vista la estrella, así que tuvieron que pararse a preguntar el camino.",
+        "question": "¿A quién preguntaron los Reyes Magos sobre el paradero del Hijo de Dios?",
+        "answerOne": "Al rey Herodes",
+        "answerTwo": "Al procurador Poncio Pilato",
+        "answerThree": "Al profeta Isaías",
+        "correctAnswer": "Al rey Herodes"
+    },
+    "18": {
+        "introduction": "Los Reyes Magos preguntaron al rey Herodes si sabía dónde había nacido el rey de los judíos.",
+        "question": "¿Dónde vivía Herodes cuando los Reyes Magos le hicieron esta pregunta?",
+        "answerOne": "Belén",
+        "answerTwo": "Jerusalén",
+        "answerThree": "Roma",
+        "correctAnswer": "Jerusalén"
+    },
+    "19": {
+        "introduction": "Una vez que los Reyes Magos se enteraron de que Jesús había nacido en Belén, fueron allí y le adoraron. También le regalaron algunas cosas.",
+        "question": "¿Qué regalos dieron los Reyes Magos al Niño Jesús?",
+        "answerOne": "Una PlayStation 5, un balón de fútbol y un puzzle",
+        "answerTwo": "Un caballo de carreras",
+        "answerThree": "Oro, incienso y mirra",
+        "correctAnswer": "Oro, incienso y mirra"
+    },
+    "20": {
+        "introduction": "Herodes, cuando los Reyes Magos le dijeron que había nacido Jesús, se enfadó mucho y decidió matarlo.",
+        "question": "¿Por qué Herodes quería matar al Niño Jesús?",
+        "answerOne": "Porque no le gustaban los niños",
+        "answerTwo": "Porque le daba miedo que Jesús le quitara el trono",
+        "answerThree": "Porque tenía envidia de los regalos que le habían hecho los Reyes Magos",
+        "correctAnswer": "Porque le daba miedo que Jesús le quitara el trono"
+    },
+    "21": {
+        "introduction": "Por suerte, José se enteró a tiempo de los planes de Herodes.",
+        "question": "¿Cómo se enteró José de que Herodes quería matar al Niño Jesús?",
+        "answerOne": "Porque un ángel se lo contó en sueños, mientras dormía",
+        "answerTwo": "Porque oyó a un soldado contándoselo a otro",
+        "answerThree": "Porque le avisaron los Reyes Magos",
+        "correctAnswer": "Porque un ángel se lo contó en sueños, mientras dormía"
+    },
+    "22": {
+        "introduction": "San José se levantó corriendo y se llevó a la Virgen María y a Jesús.",
+        "question": "¿A qué lugar huyeron?",
+        "answerOne": "Palestina",
+        "answerTwo": "Egipto",
+        "answerThree": "Líbano",
+        "correctAnswer": "Egipto"
+    },
+    "23": {
+        "introduction": "José, Jesús y María se quedaron un tiempo en Egipto, hasta que se enteraron de que el rey Herodes había muerto. Entonces, decidieron volver.",
+        "question": "¿Dónde se fueron a vivir cuando volvieron de Egipto?",
+        "answerOne": "Jerusalén",
+        "answerTwo": "Nazaret",
+        "answerThree": "Belén",
+        "correctAnswer": "Nazaret"
+    },
+    "24": {
+        "introduction": "Todas esta historia se puede encontrar en los Evangelios. En dos de ellos, concretamente.",
+        "question": "¿Qué evangelistas son los que narran el nacimiento e infancia de Jesús?",
+        "answerOne": "Mateo y Marcos",
+        "answerTwo": "Lucas y Juan",
+        "answerThree": "Mateo y Lucas",
+        "correctAnswer": "Mateo y Lucas"
+    }
+}
