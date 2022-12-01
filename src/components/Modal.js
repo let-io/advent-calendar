@@ -37,10 +37,10 @@ const Modal = (props) => {
   let dd = String(today.getDate()).padStart(2, '0');
   let mm = String(today.getMonth() + 1).padStart(2, '0');
 
-  let isDay = true;
-  if (Number(dd) > Number(number) && Number(mm) === 12) {
+  let isDay = false;
+  if (Number(dd) < Number(number) && Number(mm) === 12) {
     console.log(Number(mm));
-    isDay = false;
+    isDay = true;
   }
 
   return (
